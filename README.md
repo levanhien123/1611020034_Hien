@@ -1,8 +1,8 @@
 # 1611020034_Hien
 # anh[Link](https://viblo.asia/helps/cach-su-dung-markdown-bxjvZYnwkJZ)
 ### Lê Văn Hiền
-##### Bậc Đại Học
-##### Công Nghệ Thông Tin
+##### Trình Độ Bậc Đại Học
+##### Chuyên Môn Lập Trinh
 ##### Dự Án Thực Hiện (Quản Lý  Sinh Viên)
 ##### Kinh Nghiệm Làm Việc Có
 
